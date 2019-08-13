@@ -1,1 +1,1 @@
-{"url":"git@github.com:YouZag/msm2020.git","ref":"master","sha":"1c387b68623fb93497a138a1dccd5937e715ca17","comment":"added stripe payment","commit-date":"2019-08-12 20:57:52 -0400","build-date":"2019-08-13 00:59:47 +0000"}
+{"url":"git@github.com:YouZag/msm2020.git","ref":"master","sha":"ac7d2160c7f307c27c76f734843de4b596540e7a","comment":"add stripe-php library","commit-date":"2019-08-12 21:27:05 -0400","build-date":"2019-08-13 01:27:22 +0000"}
